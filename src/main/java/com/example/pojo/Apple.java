@@ -9,7 +9,7 @@ public class Apple {
 			System.out.println("重要地点");
 			
 			System.out.println("杨俊波做上传 right");
-			
+			System.out.println("left");
 	}
 
 }

@@ -6,7 +6,10 @@ public class Apple {
 		// TODO Auto-generated method stub
 			System.out.println("杨键弘 第二次测试");
 			System.out.println("重要测试");
-			System.out.println("杨键弘 第一个项目   做上传 left");
+			System.out.println("重要地点");
+			
+			System.out.println("杨俊波做上传 right");
+			
 	}
 
 }
